@@ -1,3 +1,3 @@
 # Design-Pattern
-#This is Design_Patterns in Java
+This is Design_Patterns in Java
 
